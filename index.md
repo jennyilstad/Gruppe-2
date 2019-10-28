@@ -13,8 +13,7 @@
 <centerr>
     <p>
     klikk
-    <a href="https://jennyilstad.github.io/Gruppe-2/422/422.html" target="_blank">her</a>
-      <a link href="422/422.html" class="link">422-internettogmeromHTML.html</a> forOp pgave 422 Internett og mer om HTML
+    <a href="https://jennyilstad.github.io/Gruppe-2/422/422.html" target="_blank">her</a>  for Oppgave 422 Internett og mer om HTML
     </p>
 
 </body>

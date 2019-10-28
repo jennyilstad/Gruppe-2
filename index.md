@@ -10,9 +10,7 @@
        <h3> Jenny Ilstad og Silje Håheim </h3>
     <h2>Oppgave 422 Informasjonsteknologi 1</h2>
 
-<center>
-
-   
+<centerr>
     <p>
     klikk
     <a href="https://jennyilstad.github.io/Gruppe-2/422/422.html" target="_blank">her</a>

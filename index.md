@@ -11,8 +11,13 @@
     <h2>Oppgaver Informasjonsteknologi 1</h2>
 
     <p>
-    <a href="https://jennyilstad.github.io/Gruppe2/341/341-jenny.html" target="_blank"> Oppgave 341 Jenny </a>
-      <a link href="/341/341-jenny.html" class="link">341-jenny.html</a>
+    klikk 
+    <a href="https://jennyilstad.github.io/Gruppe2/341/341-jenny.html" target="_blank">her</a>
+    for Oppgave 341 Jenny
+    </p>
+    
+    <p>
+    <a link href="/341/341-jenny.html" class="link">341-jenny.html</a>
     </p>
 
     <p>

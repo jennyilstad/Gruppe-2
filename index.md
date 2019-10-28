@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="utf-8">
       <title>Gruppe 2 sin Hovedside</title>
@@ -40,4 +39,4 @@
     </p>
 
 </body>
-</html>
+

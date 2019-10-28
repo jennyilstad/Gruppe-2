@@ -13,7 +13,7 @@
 <center>
     <p>
     klikk 
-    <a href="https://jennyilstad.github.io/Gruppe2/341/341-jenny.html" target="_blank">her</a>
+    <a href="https://jennyilstad.github.io/Gruppe-2/341/341-jenny.html" target="_blank">her</a>
     for Oppgave 341 Jenny
     </p>
     

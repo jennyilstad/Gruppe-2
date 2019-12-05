@@ -11,21 +11,21 @@
   <h3> Jenny Ilstad og Silje Håheim </h3>
   <h2>Oppgaver Informasjonsteknologi 1</h2>
 <p>
-  <a href="341/341-jenny.html">341-jenny.html</a>
+  <a href="341/341-jenny.html" target="blank">341-jenny.html</a>
 </p>
 <p>
-  <a href="341/341-silje.html">341-silje.html</a>
-</p>
-<br>
-<p>
-  <a href="392/392.html">392-ServiceDesk.html</a>
+  <a href="341/341-silje.html" target="blank">341-silje.html</a>
 </p>
 <br>
 <p>
-  <a href="422/422.html">422-internettogmeromHTML.html</a>
+  <a href="392/392.html" target="blank">392-ServiceDesk.html</a>
+</p>
+<br>
+<p>
+  <a href="422/422.html" target="blank">422-internettogmeromHTML.html</a>
 </p>
   <br>
 <p>
-  <a href="461/461.html">461-CSS.html</a>
+  <a href="461/461.html" target="blank">461-CSS.html</a>
 </body>
 </html>

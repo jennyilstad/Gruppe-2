@@ -11,7 +11,7 @@
   <h3> Jenny Ilstad og Silje Håheim </h3>
   <h2>Oppgaver Informasjonsteknologi 1</h2>
 <p>
-  <a href="341/341-jenny.html" target="blank">341-jenny.html</a>
+  <a href="https://jennyilstad.github.io/gruppe2.github.io/341/341-jenny.html">341-jenny.html</a>
 </p>
 <p>
   <a href="341/341-silje.html" target="blank">341-silje.html</a>
